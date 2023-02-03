@@ -1,0 +1,2 @@
+git init = to create a repo
+touch name.txt = to create a file named touch
