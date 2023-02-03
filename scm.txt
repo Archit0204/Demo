@@ -2,3 +2,7 @@ git init = to create a repo
 touch name.txt = to create a file named touch
 vi name.txt = to edit the file and esc :wq to exit edit mode
 cat name.txt = display the file
+git add name.txt = to stage a single file
+git add -a = to stage all files
+git commit -m "msg" = commit a file
+git status = to give the full status of the file
