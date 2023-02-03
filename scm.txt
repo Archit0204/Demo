@@ -1,2 +1,4 @@
 git init = to create a repo
 touch name.txt = to create a file named touch
+vi name.txt = to edit the file and esc :wq to exit edit mode
+cat name.txt = display the file
