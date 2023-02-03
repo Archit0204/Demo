@@ -6,3 +6,4 @@ git add name.txt = to stage a single file
 git add -a = to stage all files
 git commit -m "msg" = commit a file
 git status = to give the full status of the file
+git commit -a -m "msg" = to stage and commit simultaneously (does not work in the first time)
