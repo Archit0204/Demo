@@ -1,4 +1,6 @@
 git init = to create a repo
+git ls = shows the file in the repo
+git ls -lart = also shows the hidden files in the repo
 touch name.txt = to create a file named touch
 vi name.txt = to edit the file and esc :wq to exit edit mode
 cat name.txt = display the file
@@ -7,3 +9,6 @@ git add -a = to stage all files
 git commit -m "msg" = commit a file
 git status = to give the full status of the file
 git commit -a -m "msg" = to stage and commit simultaneously (does not work in the first time)
+rm -rf .git = removes the .git repository
+clear = clears the terminal 
+git checkout -b new = creates a new branch named "new", anything else can also be written instead of new in it to give some other name
