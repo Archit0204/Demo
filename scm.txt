@@ -12,3 +12,4 @@ git commit -a -m "msg" = to stage and commit simultaneously (does not work in th
 rm -rf .git = removes the .git repository
 clear = clears the terminal 
 git checkout -b new = creates a new branch named "new", anything else can also be written instead of new in it to give some other name
+git merge new = merges the new branch with the master branch
